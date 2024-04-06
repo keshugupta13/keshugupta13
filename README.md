@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python , DSA with Python, R Related Topics**
 
-- 📫 How to reach me **guptakeshu2324@gmail.com**
+- 📫 How to reach me **kgupta2324@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UPDRQHOmlZSrWraA_x1DwAh36vezUDd3/view?usp=sharing](https://drive.google.com/file/d/1UPDRQHOmlZSrWraA_x1DwAh36vezUDd3/view?usp=sharing)
 
